@@ -1,0 +1,21 @@
+/* Header Styles */
+. header{
+height: 250px;
+max-height: 500px;
+background-image: url(../images/upsBackground.png);
+background-size: cover;
+background-repeat: no-repeat;
+Background-position: bottom;
+}
+#pageTopic{
+    text-align: center;
+}
+
+/* Primary Color */
+.colorContainer{
+    display: inline-block;
+    
+}
+/* Typography CSS */
+
+/* UI Elements */
